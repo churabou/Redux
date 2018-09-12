@@ -1,14 +1,14 @@
 //
-//  ReduxUITests.swift
-//  ReduxUITests
+//  CounterExampleUITests.swift
+//  CounterExampleUITests
 //
-//  Created by ちゅーたつ on 2018/09/11.
+//  Created by ちゅーたつ on 2018/09/12.
 //  Copyright © 2018年 ちゅーたつ. All rights reserved.
 //
 
 import XCTest
 
-class ReduxUITests: XCTestCase {
+class CounterExampleUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
